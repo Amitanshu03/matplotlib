@@ -1,6 +1,7 @@
 .. _color_examples:
 
 Color
+Hello I changed Something
 =====
 
 For more in-depth information about the colormaps available in matplotlib
