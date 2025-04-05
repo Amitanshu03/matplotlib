@@ -37,6 +37,8 @@ For more information on colors in matplotlib see
 
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+
 
 t = np.linspace(0.0, 2.0, 201)
 s = np.sin(2 * np.pi * t)
